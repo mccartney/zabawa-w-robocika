@@ -1,1 +1,67 @@
-# zabawa-w-robocika
+## Zabawa w robocika
+
+### Przygotowanie
+
+Potrzebne są:
+
+- trochę miejsca na podłodze
+- coś do wyznaczania pól (jak w grze planszowej) - np. taśma malarska
+- zestaw instrukcji
+- robot
+- i jego programista
+
+Plansza / tor:
+
+- wyznacz tor na podłodze złożony z kilku pól, np:
+
+TODO
+
+### Instrukcje
+
+Zrób krok do przodu
+
+![do przodu](obrazki/doprzodu.jpg)
+
+Obróć się w miejscu w lewo
+
+![w lewo](obrazki/lewo.jpg)
+
+Obróć się w miejscu w prawo
+
+![w prawo](obrazki/prawo.jpg)
+
+Skocz do przodu o jedno pole
+
+![skok](obrazki/skok.jpg)
+
+### Zabawa / Zadanie
+
+Programista:
+- ogląda tor i kompletuje plik instrukcji (Uwaga! Ważna jest ich kolejność)
+- podaje robotowi
+
+Dla robota:
+- staje na początkowym polu toru
+- i wykonuje po kolei instrukcje jedna po drugiej
+
+Można teraz skomplikować tor i sprobować napisać nowy program.
+
+### Jak to się ma do pracy programisty?
+
+Plik instrukcji to program komputerowy. Napisany/skonstruowany przez
+programistę. Samo oglądanie programu komputerowego rzadko kiedy pozwala
+przewidzieć, jaki będzie efekt końcowy. I z drugiej strony patrząc - jeśli
+któś określi nam efekt końcowy, nie jest łatwo
+
+Dopiero jego wykonanie - tj. wykonanie po kolei każdej instrukcji od
+początku do końca pozwala programiście poznać efekt końcowy.
+
+W "prawdziwych" programach instrukcje są inne - zamiast kroków i obrotów
+instrkucje dotyczą przetwarzania danych - zapisywania, wysyłania lub
+odbierania, czy pokazywania na ekranie, itp.
+
+---- 
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]
