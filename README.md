@@ -7,7 +7,7 @@ Potrzebne są:
 - trochę miejsca na podłodze
 - coś do wyznaczania pól (jak w grze planszowej) - np. taśma malarska
 - zestaw instrukcji
-- robot
+- robocik
 - i jego programista
 
 Plansza / tor:
@@ -16,7 +16,7 @@ Plansza / tor:
 
 TODO
 
-### Instrukcje
+### Zestaw instrukcji
 
 Zrób krok do przodu
 
@@ -51,13 +51,13 @@ Można teraz skomplikować tor i sprobować napisać nowy program.
 Plik instrukcji to program komputerowy. Napisany/skonstruowany przez
 programistę. Samo oglądanie programu komputerowego rzadko kiedy pozwala
 przewidzieć, jaki będzie efekt końcowy. I z drugiej strony patrząc - jeśli
-któś określi nam efekt końcowy, nie jest łatwo
+ktoś określi nam efekt końcowy, nie jest łatwo wymyślić program, który ten cel osiągnie.
 
 Dopiero jego wykonanie - tj. wykonanie po kolei każdej instrukcji od
 początku do końca pozwala programiście poznać efekt końcowy.
 
-W "prawdziwych" programach instrukcje są inne - zamiast kroków i obrotów
-instrkucje dotyczą przetwarzania danych - zapisywania, wysyłania lub
+W prawdziwych programach komputerowych instrukcje są inne - zamiast kroków i obrotów
+instrukcje dotyczą przetwarzania danych - zapisywania, wysyłania lub
 odbierania, czy pokazywania na ekranie, itp.
 
 ---- 
