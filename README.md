@@ -16,6 +16,12 @@ Plansza / tor:
 
 TODO
 
+### Robocik
+
+Każdy, kto chce się bawić
+
+![robocik](obrazki/robocik.jpg)
+
 ### Zestaw instrukcji
 
 Zrób krok do przodu
