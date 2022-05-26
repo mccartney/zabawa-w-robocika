@@ -14,7 +14,7 @@ Plansza / tor:
 
 - wyznacz tor na podłodze złożony z kilku pól, np:
 
-![tor][obrazki/tor.jpg)
+![tor](obrazki/tor.jpg)
 
 ### Robocik
 
