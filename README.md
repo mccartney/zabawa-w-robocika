@@ -5,7 +5,7 @@
 Potrzebne są:
 
 - trochę miejsca na podłodze
-- coś do wyznaczania pól (jak w grze planszowej) - np. taśma malarska
+- coś do wyznaczania pól (jak w grze planszowej) - np. taśma malarska, kartony kwadratowe, duże puzzle piankowe podłogowe czy podobne
 - zestaw instrukcji
 - robocik
 - i jego programista
